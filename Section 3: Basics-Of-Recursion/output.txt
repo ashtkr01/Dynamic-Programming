@@ -1,0 +1,7 @@
+Put 1 on d by using s
+Put 2 on h by using s
+Put 1 on h by using d
+Put 3 on d by using s
+Put 1 on s by using h
+Put 2 on d by using h
+Put 1 on d by using s
